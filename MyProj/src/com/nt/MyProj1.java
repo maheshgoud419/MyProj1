@@ -9,11 +9,8 @@ package com.nt;
  */
 public class MyProj1 {
 
-	/**
-	 * 
-	 */
 	public MyProj1() {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public static void main(String[] args) {
