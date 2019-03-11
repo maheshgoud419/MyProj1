@@ -16,19 +16,17 @@ public class MyProj1 {
 		// TODO Auto-generated constructor stub
 	}
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 	}
-/**
-	 * @param args
-	 */
+
 	public static void main1(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 	}
+public static void main2(String[] args) {
+		
 
+	}
 }
