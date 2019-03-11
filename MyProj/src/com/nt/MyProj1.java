@@ -3,10 +3,6 @@
  */
 package com.nt;
 
-/**
- * @author Dell
- *
- */
 public class MyProj1 {
 
 	public MyProj1() {
